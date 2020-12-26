@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![KyungJunNoh's github stats](https://github-readme-stats.vercel.app/api?username=KyungJunNoh&show_icons=true&theme=synthwave)
+![KyungJunNoh's github stats](https://github-readme-stats.vercel.app/api?username=KyungJunNoh&show_icons=true&theme=highcontrast)
 
 
 <!--
