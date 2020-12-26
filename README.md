@@ -1,4 +1,5 @@
 ## 👋Hello, World👋
+------------------------------------------------
 - 🏫 Affiliation : Gwangju-SoftwareMiester-HighSchool
 - 👨 Age : 17
 - 😀 name : KyungJunNoh
