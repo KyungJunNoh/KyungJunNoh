@@ -1,9 +1,9 @@
 ## Hello, World👋
-+🏫 Affiliation : Gwangju-SoftwareMiester-HighSchool
-+👨 Age : 17
-+😀 name : KyungJunNoh
-+🌱 Starting Github : 2020 01 01
-+📩 E-mail : developerJun0615@gmail.com
+- 🏫 Affiliation : Gwangju-SoftwareMiester-HighSchool
+- 👨 Age : 17
+- 😀 name : KyungJunNoh
+- 🌱 Starting Github : 2020 01 01
+- 📩 E-mail : developerJun0615@gmail.com
 
 
 
