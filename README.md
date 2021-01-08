@@ -6,8 +6,8 @@
 - 🌱 Starting Github : 2020 01 01
 - 📩 E-mail : developerJun0615@gmail.com
 --------------------------------------------------
-https://github-readme-stats.vercel.app/api/top-langs?username=KyungJunNoh&layout=compact
 
+![KyungJunNoh's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=KyungJunNoh&layout=compact)
 
 
 <!--
