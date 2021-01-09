@@ -5,7 +5,8 @@
 - 😀 name : KyungJunNoh
 - 🌱 Starting Github : 2020 01 01
 - 📩 E-mail : developerJun0615@gmail.com
---------------------------------------------------
+------------------------------------------------
+- 커밋을위한 공부가아닌 공부를위한 커밋을 하라.
 
 ![KyungJunNoh's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=KyungJunNoh&layout=compact)
 
