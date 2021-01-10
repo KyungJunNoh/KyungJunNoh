@@ -6,7 +6,7 @@
 > - 😀 name : KyungJunNoh [ Korean-say : 노경준 ] <br>
 > - 🌱 Starting Github : 2020 01 01 <br>
 > - 📩 E-mail : developerJun0615@gmail.com [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerjun0615@gmail.com)](mailto:developerjun0615@gmail.com) <br>
-> - 📩 Instagram : yes._.jun__ [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tae_hyeon04/)](https://www.instagram.com/tae_hyeon04/)
+> - 📩 Instagram : yes._.jun__ [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yes._.jun___)](https://www.instagram.com/yes._.jun___)
 
 
 ## ✨Promise✨
