@@ -1,4 +1,4 @@
-# 🖥️ Backend Developer & Cyber Security 🛡️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungJunNoh&count_bg=%23ECF100&title_bg=%23000000&icon=javascript.svg&icon_color=%23ECF100&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 🖥️ Backend Developer 🖥️[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungJunNoh&count_bg=%23ECF100&title_bg=%23000000&icon=javascript.svg&icon_color=%23ECF100&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > - 🏫 Affiliation : Gwangju-SoftwareMiester-HighSchool<br> <img src="https://user-images.githubusercontent.com/69895394/99774446-218a7700-2b51-11eb-9217-77c85380594c.png" align="right" width="250px">
 > - 👨 Age : 18<br>
