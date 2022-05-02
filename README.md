@@ -1,6 +1,7 @@
-# Server Developer
+### Hi there 👋
 
-Hi there 👋
+**커뮤니케이션을 끊이지 않기위해 노력**합니다.   
+**커뮤니케이션의 가치는 무한**하다 생각하며, 커뮤니케이션이 끊긴다면 발전하지 못한다고 생각합니다.
 
 <!--![KyungJunNoh's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=KyungJunNoh&layout=compact)--!>
 
